@@ -1,0 +1,8 @@
+tensorflow-macos==2.15.0
+tensorflow-metal
+pandas
+numpy
+scikit-learn
+tensorboard==2.15.2
+matplotlib
+streamlit
